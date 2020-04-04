@@ -14,8 +14,8 @@ public class ShowTheResultsWordQuestion  implements Question<Boolean> {
     public Boolean answeredBy ( Actor actor ) {
         List<WebElementFacade> list = MyElement.RESULTS_SHOW.resolveAllFor(actor);
         List<String> getText = list.stream().map(element -> element.getText()).collect(Collectors.toList());
-
-        if (getText.get(3).contains("The Name of the Wind by Patrick Rothfuss")){
+        System.out.print(getText);
+        if (getText.get(2).contains("The Name of the Wind by Patrick Rothfuss")){
             System.out.print("entro a true");
                 return true;
             }
