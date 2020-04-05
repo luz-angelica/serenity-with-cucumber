@@ -9,15 +9,17 @@ import exception.ShowTheResultsWordException;
 import net.serenitybdd.screenplay.GivenWhenThen;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actors.OnlineCast;
+import questions.PageTitleQuestion;
 import questions.ShowTheResultsSearchQuestion;
 import questions.ShowTheResultsWordQuestion;
 import task.*;
 import utils.driver.WebDriverUtils;
+
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 
 public class GoogleSearchStepDefinitions {
 
-     @Before
+    @Before
     public void setup() {
         setTheStage(new OnlineCast());
         theActorCalled("Search User");
@@ -44,25 +46,27 @@ public class GoogleSearchStepDefinitions {
     @Then("^I go to the search results page$")
     public void i_go_to_the_search_results_page() {
          theActorInTheSpotlight().should(GivenWhenThen.seeThat(
-         ShowTheResultsSearchQuestion.text()
-         ).orComplainWith(ShowTheResultsSearchException.class,ShowTheResultsSearchException.MESSAGE_RESULT_SEARCH));
+         ShowTheResultsSearchQuestion.text()).orComplainWith(
+         ShowTheResultsSearchException.class,ShowTheResultsSearchException.MESSAGE_RESULT_SEARCH)
+         );
     }
 
-    @Then("^the first result is \"The Name of the Wind - Patrick Rothfuss\"$")
-    public void the_first_result_is_The_Name_of_the_Wind_Patrick_Rothfuss() {
+    @Then("^the (.*) result is (.*)$")
+    public void the_first_result_is_The_Name_of_the_Wind_Patrick_Rothfuss(String number, String find) {
         theActorInTheSpotlight().should(GivenWhenThen.seeThat(
-        ShowTheResultsWordQuestion.ReturnWord()).orComplainWith(
+        ShowTheResultsWordQuestion.ReturnWord(number,find)).orComplainWith(
         ShowTheResultsWordException.class,ShowTheResultsWordException.MESSAGE_WORD_SEARCH));
     }
 
-    @When("^I click on the first result link$")
-    public void i_click_on_the_first_result_link() {
-         theActorInTheSpotlight().attemptsTo(OpenFirstResult.GivingClickHere());
+    @When("^I click on the (.*) result link$")
+    public void i_click_on_the_first_result_link(String number) {
+         theActorInTheSpotlight().attemptsTo(OpenFirstResult.GivingClickHere(number));
     }
 
-    @Then("^I go to the “Patrick Rothfuss - The Books” page$")
-    public void i_go_to_the_Patrick_Rothfuss_The_Books_page() {
-
+    @Then("^I am in the (.*) page$")
+    public void i_go_to_the_Patrick_Rothfuss_The_Books_page(String title) {
+        theActorInTheSpotlight().should(GivenWhenThen.seeThat(
+        PageTitleQuestion.IaEqualsToWord(title)));
     }
 
 
@@ -71,9 +75,9 @@ public class GoogleSearchStepDefinitions {
          theActorInTheSpotlight().attemptsTo(SuggestionList.IsDisplayed());
     }
 
-    @When("^I click on the first suggestion in the list$")
-    public void iClickOnTheFirstSuggestionInTheList() {
-         theActorInTheSpotlight().attemptsTo(FirstSuggestionList.Open());
+    @When("^I click on the (.*) suggestion in the list$")
+    public void iClickOnTheFirstSuggestionInTheList(String number) {
+         theActorInTheSpotlight().attemptsTo(FirstSuggestionList.Open(number));
     }
 
 

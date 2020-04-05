@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Google Homepage Search" skipped="0" tests="2" time="27.93" timestamp="2020-04-03 08:21:03"><testcase name="User can search with “Google Search”"/><testcase name="User can search by using the suggestions"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Google Homepage Search" skipped="0" tests="4" time="46.38" timestamp="2020-04-05 12:08:13"><testcase name="User can search with “Google Search”"><failure message="First Results are show in the list - Expected show the results word question&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">First Results are show in the list - Expected show the results word question
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>First Results are show in the list - Expected show the results word question
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+step_definitions.GoogleSearchStepDefinitions.the_first_result_is_The_Name_of_the_Wind_Patrick_Rothfuss(GoogleSearchStepDefinitions.java:56)&#13;
+✽.the first result is The Name of the Wind by Patrick Rothfuss(src/test/resources/features/google_homepage_search.feature:8)&#13;
+</system-err></testcase><testcase name="User can search by using the suggestions"><failure message="First Results are show in the list - Expected show the results word question&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">First Results are show in the list - Expected show the results word question
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>First Results are show in the list - Expected show the results word question
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+step_definitions.GoogleSearchStepDefinitions.the_first_result_is_The_Name_of_the_Wind_Patrick_Rothfuss(GoogleSearchStepDefinitions.java:56)&#13;
+✽.the first result is The Name of the Wind by Patrick Rothfuss(src/test/resources/features/google_homepage_search.feature:18)&#13;
+</system-err></testcase><testcase name="User can search with “Google Search”"/><testcase name="User can search by using the suggestions"/></testsuite>

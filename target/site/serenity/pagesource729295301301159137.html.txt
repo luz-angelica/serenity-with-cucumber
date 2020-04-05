@@ -1,0 +1,371 @@
+<html><head>
+<title>Patrick Rothfuss - Official Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="imagetoolbar" content="no">
+<link rel="stylesheet" href="../css/universal.css?v=20180515" type="text/css">
+<script src="https://cdn.iubenda.com/iubenda.js"></script><script src="https://cdn.iubenda.com/iubenda.js"></script><script language="JavaScript">
+
+<!--hide me
+
+if((navigator.userAgent.indexOf("AOL") != -1) && (navigator.appVersion.indexOf("Mac") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/SNF_mac.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.userAgent.indexOf("Opera") != -1) && (navigator.appVersion.indexOf("Mac") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.userAgent.indexOf("Opera") != -1) && (navigator.appVersion.indexOf("Win") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Safari") != -1) && (navigator.appVersion.indexOf("Mac") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/SNF_mac.css" type="text/css">');
+  	}
+
+else if((navigator.appName.indexOf("Netscape") != -1) && (navigator.appVersion.indexOf("Mac") != -1) && (parseInt(navigator.appVersion) < 5))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/SNF_mac.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Netscape") >= -1) && (navigator.appVersion.indexOf("Mac") != -1) && (parseInt(navigator.appVersion) >= 5))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/SNF_mac.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Netscape") >= -1) && (navigator.appVersion.indexOf("Win") != -1) && (parseInt(navigator.appVersion) >= 5))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+  	}
+
+else if((navigator.appName.indexOf("Netscape") != -1) && (navigator.appVersion.indexOf("Win") != -1) && (parseInt(navigator.appVersion) < 5))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Explorer") != -1) && (navigator.appVersion.indexOf("Mac") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/IE_mac.css" type="text/css">');
+  	}
+
+else if((navigator.appName.indexOf("Explorer") != -1) && (navigator.appVersion.indexOf("Win") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/IE_win.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Mozilla") != -1) && (navigator.appVersion.indexOf("Mac") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/SNF_mac.css" type="text/css">');
+  	}
+  	  	
+else if((navigator.appName.indexOf("Mozilla") != -1) && (navigator.appVersion.indexOf("Win") != -1))
+	{
+  	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+  	}
+
+else 
+	{
+	document.writeln('<LINK REL="stylesheet" HREF="../css/NFO_win.css" type="text/css">');
+	}
+	
+  	
+// show me-->
+</script><link rel="stylesheet" href="../css/NFO_win.css" type="text/css">
+
+<style>
+
+div.feedburnerFeedBlock {
+	font-family: georgia, serif;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #000000;
+	}
+
+div.feedburnerFeedBlock .headline {
+	font-weight: bold;
+	color: #000000;
+	}
+
+div.feedburnerFeedBlock .date {
+	margin: 0;
+	padding: 0;
+	font-style: italic;
+	}
+
+div.feedburnerFeedBlock  ul {
+	list-style: none;
+	margin-top: 0;
+	margin-left: 0;
+	padding-left: 0;
+	}
+
+div.feedburnerFeedBlock ul li {
+	list-style: none;
+	margin-left: 0;
+	margin-bottom: 7px;
+	padding-left: 0;
+	}	
+	
+
+div.feedburnerFeedBlock a:link { color: #c27300; text-decoration: none; }
+
+div.feedburnerFeedBlock a:visited { color: #c27300; text-decoration: none; }
+
+div.feedburnerFeedBlock a:hover { color: #e0b97f; text-decoration: underline;  }
+
+
+#creditfooter {
+	display: none;
+	}
+</style>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="../js/pngfix.js"></script>
+<![endif]-->
+<script language="javascript">//<!--
+function nada() {
+}
+function imgSwitch(imgName,imgObjName) {
+if (document.images) {
+  document.images[imgName].src = eval(imgObjName + ".src");
+}}
+
+// preload images:
+if (document.images) {
+cover0 = new Image(277,416); cover0.src = "/images/page/cover_277.jpg";
+cover1 = new Image(277,416); cover1.src = "/images/page/cover2.jpg";
+cover2 = new Image(277,416); cover2.src = "/images/page/cover.jpg";
+cover3 = new Image(277,416); cover3.src = "/images/page/cover_uk.jpg";
+}
+//--></script>
+
+
+<script>
+ /* window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20230952-1', { 'anonymize_ip': true });*/
+</script>
+<style id="cookieControl-styling" type="text/css">#ccc{position:fixed;z-index:6;font-family:Arial,sans-serif;font-size:12px;line-height:1.4em;font-smooth:antialised;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@media (min-width:1024px){#ccc{font-size:16px}}#ccc-overlay{position:fixed;top:0;bottom:0;left:0;right:0;z-index:1;background:rgba(0,0,0,.4);-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0);opacity:0;transition:opacity .4s,-webkit-transform 0s;transition:transform 0s,opacity .4s;transition:transform 0s,opacity .4s,-webkit-transform 0s;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1000;perspective:1000;will-change:transform,opacity}#ccc[open] #ccc-overlay{-webkit-transform:translateZ(0);transform:translateZ(0);opacity:1}#ccc-icon{position:fixed;bottom:0;width:80px;height:80px;cursor:pointer;z-index:4}#ccc[left] #ccc-icon{left:0}#ccc[right] #ccc-icon{right:0}#ccc[dark] #ccc-icon{fill:#000025}#ccc[dark] #ccc-icon #star path{fill:#fff}#ccc[light] #ccc-icon{fill:#555}#ccc[light] #ccc-icon #star path{fill:#f4f4f4}#ccc-module{position:fixed;width:100%;height:100%;z-index:2;transition:-webkit-transform .6s;transition:transform .6s;transition:transform .6s,-webkit-transform .6s;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1000;perspective:1000;will-change:transform}#ccc[slideout] #ccc-module{top:0;bottom:0;width:90%;max-width:420px}#ccc[slideout][left] #ccc-module{left:auto;right:100%;-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc[slideout][left][open] #ccc-module{right:100%;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}#ccc[slideout][right] #ccc-module{right:auto;left:100%;-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc[slideout][right][open] #ccc-module{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}#ccc[popup] #ccc-module{left:0;right:0;top:100%;bottom:0;-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc[popup][open] #ccc-module{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}#ccc-content{position:absolute;overflow-y:auto;padding:24px;box-sizing:border-box}#ccc[slideout] #ccc-content{top:0;bottom:0;left:0;right:0}#ccc[popup] #ccc-content{width:90%;height:90%;max-height:600px;max-width:600px;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);border-radius:12px}#ccc[dark] #ccc-content{color:#fff;fill:#fff;background-color:#313147}#ccc[light] #ccc-content{color:#333;fill:#333;background-color:#f4f4f4}#ccc-close{position:absolute;right:16px;top:16px;width:24px;cursor:pointer}#ccc-title{font-size:1.2em;line-height:1.5em;font-weight:700;padding-right:32px;margin:0;text-align:left}#ccc #ccc-recommended-settings{margin-left:0;float:none;clear:both}#ccc h3{margin:0;font-weight:700;padding-right:120px}#ccc h3,#ccc p{font-size:1em;line-height:1.5em;text-align:left}#ccc p{font-weight:400;margin:1em 0}#ccc hr{height:1px;border:0;margin:24px 0;opacity:.25}#ccc .ccc-svg-element{width:16px;height:16px;display:inline-block;position:relative;top:6px;margin-left:8px}#ccc[dark] hr{background-color:#fff}#ccc[dark] a,#ccc[dark] h2,#ccc[dark] h3,#ccc[dark] p,#ccc[dark] span{color:#fff;fill:#fff}#ccc[light] hr{background-color:#333}#ccc[light] a,#ccc[light] h2,#ccc[light] h3,#ccc[light] p,#ccc[light] span{color:#333;fill:#333}#ccc .optional-cookie{position:relative}#ccc .checkbox-toggle{position:absolute;top:-3px;right:0;margin:0;border-radius:50px;border:4px solid #fff}#ccc .checkbox-toggle-label{display:flex;margin:0;cursor:pointer;z-index:1}#ccc .checkbox-toggle-input{margin:0;padding:0;visibility:hidden;display:block;position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%}#ccc .checkbox-toggle-off,#ccc .checkbox-toggle-on{flex:1;flex-basis:50%;width:50%;min-width:40px;text-align:center;z-index:2;font-size:.75em;font-weight:700;padding:0 6px;white-space:nowrap}#ccc .checkbox-toggle-off{opacity:.65}#ccc .checkbox-toggle-toggle{display:block;width:50%;height:100%;cursor:pointer;position:absolute;top:0;left:0;z-index:3;border-radius:50px;transition:all .4s ease;background-color:#000}#ccc .checkbox-toggle input:checked~.checkbox-toggle-toggle{left:50%}#ccc[dark] .checkbox-toggle{background-color:#111125;border-color:#111125}#ccc[dark] .checkbox-toggle-toggle{background-color:#2f2f5f}#ccc[light] .checkbox-toggle{background-color:#555;border-color:#555}#ccc[light] .checkbox-toggle-toggle{background-color:#000}#ccc[light] .checkbox-toggle-off,#ccc[light] .checkbox-toggle-on{color:#fff}#ccc .ccc-alert{margin:-16px 0 0;overflow:hidden;height:0;border-radius:8px}#ccc .ccc-alert[visible]{height:auto;margin:24px 0;padding:16px 16px 0}#ccc .ccc-alert-title{display:flex;align-items:center;padding:0}#ccc .ccc-alert-icon{display:inline-block;width:30px;height:30px;margin:0 8px 0 0;flex-shrink:0}#ccc .ccc-alert-break{margin:12px 0}.third-party-cookie-link{display:flex;align-items:center;margin:16px 0}.third-party-cookie-name{font-size:1em;font-weight:700}.third-party-cookie-icon{display:inline-block;width:16px;height:16px;margin-left:16px}#ccc[dark] .ccc-alert{color:#fff;fill:#fff;background:#111125}#ccc[light] .ccc-alert{background:#eaeaea}#ccc #ccc-notify{position:fixed;bottom:0;left:0;right:0;height:auto;min-height:48px;padding:16px;margin:0;border-radius:0;overflow:hidden;z-index:5;display:flex;flex-direction:column;justify-content:space-between;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0);transition:-webkit-transform .4s;transition:transform .4s;transition:transform .4s,-webkit-transform .4s}#ccc #ccc-notify:empty{height:0;padding:0}#ccc #ccc-notify[visible]{-webkit-transform:translateZ(0);transform:translateZ(0)}#ccc #ccc-notify h3{padding:0}#ccc #ccc-notify p{margin:0;opacity:.8;font-size:.9em}#ccc .ccc-notify-buttons{position:relative;margin-top:16px}#ccc .ccc-notify-button{border:2px solid;border-radius:4px;padding:8px 16px;font-size:1em;margin:4px 8px 4px 0;font-weight:400;line-height:1.5em;outline:0;background:transparent;cursor:pointer}#ccc .ccc-notify-button:focus,#ccc .ccc-notify-button:hover{outline:0}#ccc #ccc-notify-dismiss{cursor:pointer;position:absolute;top:-4px;right:0}@media (min-width:400px){#ccc #ccc-notify-dismiss{position:relative;right:auto}}@media (min-width:600px){#ccc #ccc-notify{font-size:12px;flex-direction:row;align-items:center}#ccc .ccc-notify-buttons{margin-top:0;white-space:nowrap;flex-shrink:0}}@media (min-width:1200px){#ccc #ccc-notify{font-size:16px;z-index:0;padding:16px 100px}}#ccc[dark] #ccc-notify{color:#fff;fill:#fff;background-color:#313147}#ccc[dark] .ccc-notify-button{color:#fff;border-color:#fff}#ccc[dark] .ccc-button-solid{color:#111125;background:#fff;font-weight:700}#ccc[light] #ccc-notify{color:#000;fill:#000;background:#f4f4f4}#ccc[light] .ccc-notify-button{color:#000;border-color:#000}#ccc[light] .ccc-button-solid{color:#fff;background:#000;font-weight:700}#ccc-info-link{font-size:.8em;font-weight:700;text-decoration:none}#ccc-info-link .svg-element{width:14px;height:14px;margin-left:6px}#ccc[slideout] #ccc-info{height:100px}#ccc[popup] #ccc-info{height:40px}@media print{#ccc{display:none!important}}</style><style type="text/css"></style></head>
+<body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" bgcolor="#282923"><a name="top" id="top"></a>
+<br><br>
+<div align="center">
+<div class="redborder">
+<div class="blackborder">
+<div class="yellowborder">
+<table style="border-style: solid; border-width: 1px; border-color: #d18e49;" width="794" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="794" height="86"><img src="../images/nav/top.jpg" width="794" height="86"></td>
+</tr>
+<tr>
+<td align="center">
+<table style="background: url(../images/nav/bg_main_nav.jpg); background-position: top left;" width="794" height="25" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td width="68" height="25"><a href="../content/index.asp" onmouseover="document.home.src='../images/nav/nav_home_on.png';" onmouseout="document.home.src='../images/nav/nav_home.png';"><img src="../images/nav/nav_home.png" name="home" width="90" height="25" border="0"></a></td>
+<td width="93" height="25"><a href="../content/author.asp" onmouseover="document.author.src='../images/nav/nav_author_on.png';" onmouseout="document.author.src='../images/nav/nav_author.png';"><img src="../images/nav/nav_author.png" name="author" width="93" height="25" border="0"></a></td>
+<td width="84" height="25"><a href="../content/books.asp" onmouseover="document.books.src='../images/nav/nav_books_on.png';" onmouseout="document.books.src='../images/nav/nav_books.png';"><img src="../images/nav/nav_books.png" name="books" width="85" height="25" border="0"></a></td>
+<td width="79" height="25"><a href="../content/reviews.asp" onmouseover="document.buzz.src='../images/nav/nav_reviews_on.png';" onmouseout="document.buzz.src='../images/nav/nav_reviews.png';"><img src="../images/nav/nav_reviews.png" name="buzz" width="104" height="25" border="0"></a></td>
+<td width="88" height="25"><a href="../content/world.asp" onmouseover="document.world.src='../images/nav/nav_world_on.png';" onmouseout="document.world.src='../images/nav/nav_world.png';"><img src="../images/nav/nav_world.png" name="world" width="91" height="25" border="0"></a></td>
+<td width="84" height="25"><a href="http://blog.patrickrothfuss.com" onmouseover="document.blog.src='../images/nav/nav_blog_on.png';" onmouseout="document.blog.src='../images/nav/nav_blog.png';"><img src="../images/nav/nav_blog.png" name="blog" width="81" height="25" border="0"></a></td>
+<td width="108" height="25"><a href="../content/buy.asp" onmouseover="document.buy.src='../images/nav/nav_buy_on.png';" onmouseout="document.buy.src='../images/nav/nav_buy.png';"><img src="../images/nav/nav_buy.png" name="buy" width="107" height="25" border="0"></a></td>
+<td width="108" height="25"><a href="../content/tour.asp" onmouseover="document.tour.src='../images/nav/nav_tour_on.png';" onmouseout="document.tour.src='../images/nav/nav_tour.png';"><img src="../images/nav/nav_tour.png" name="tour" width="142" height="25" border="0"></a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="bg-all">
+
+
+<div align="center">
+<table backgroundimage="none" class="content-home" style="border-color: #393324;" cellspacing="0" cellpadding="20" border="0">
+<tbody><tr>
+<td valign="top" align="left">
+<div style="float: left; clear: left; margin: 0px 20px 15px 0px; width: 207px;">
+<img src="../images/page/on-sale-now.jpg" style="margin: 5px 5px 0px 0px; border: none;" width="207" height="23">
+<a href="../content/books.asp"><img src="../images/page/cover-hc-name-wind-10th_277.png" style="margin: 0px 0px 0px 0px;" width="207" border="0"></a>
+<br>
+<div align="center"><a href="../content/buy.asp"><img src="../images/page/buy_the_book.jpg" style="margin: 5px 5px 0px 0px; border: none;" width="150" height="37"></a>
+</div>
+</div>
+
+<font class="quote">“THE NAME OF THE WIND is a tale told with warmth and sadness and quite a bit of humor, a Harry Potter for grownups. Come and meet Kvothe -- you'll be glad you did.”</font><font class="quote2"><div align="right"><i>-David Levine, Hugo Award Winner</i></div></font>
+
+<font class="text">
+<a href="../content/reviews.asp" class="small">Read more reviews</a>
+<br>
+<br>
+<b>THE POWERFUL DEBUT NOVEL FROM FANTASY'S NEXT SUPERSTAR</b>
+<br>
+Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature. A high-action story written with a poet's hand, The Name of the Wind is a masterpiece that will transport readers into the body and mind of a wizard.
+<br><br>
+<b>NEWEST BLOGS</b>
+<br>
+<img src="../images/page/home_photo.jpg" style="margin: 0px 0px 10px 20px; padding: 0px; float: right;" usemap="#Map" border="0">
+<script src="https://feeds2.feedburner.com/PatrickRothfuss?format=sigpro" type="text/javascript"></script><div class="feedburnerFeedBlock" id="PatrickRothfussv52rssi5ujb1u7vhhblt8iusl8"><ul><li><span class="headline"><a href="https://blog.patrickrothfuss.com/2019/12/a-beautiful-board-for-a-beautiful-game/">A beautiful board for a beautiful game</a></span><p class="date">12/18/2019</p></li><li><span class="headline"><a href="https://blog.patrickrothfuss.com/2019/12/aint-no-party-like-a-worldbuilders-party-cause-a-worldbuilders-party-dont/">Ain’t no party like a Worldbuilders Party cause a Worldbuilders party don’t…</a></span><p class="date">12/17/2019</p></li><li><span class="headline"><a href="https://blog.patrickrothfuss.com/2019/12/crapping-presents-in-which-oot-is-cute/">Crapping Presents: In Which Oot is Cute</a></span><p class="date">12/14/2019</p></li><li><span class="headline"><a href="https://blog.patrickrothfuss.com/2019/12/for-authors-from-authors-or-critiques-and-tuckerizations/">For Authors, From Authors, or: Critiques and Tuckerizations</a></span><p class="date">12/14/2019</p></li><li><span class="headline"><a href="https://blog.patrickrothfuss.com/2019/12/the-prize-vault/">The Prize Vault!</a></span><p class="date">12/10/2019</p></li></ul> <div id="creditfooter"><a href="https://feedburner.google.com" target="_blank"><img src="//feedburner.google.com/fb/images/buzzboost-pwrd.gif" alt="Headlines by FeedBurner" style="border:0"></a></div></div><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds2.feedburner.com/PatrickRothfuss"></a><br/>Powered by FeedBurner</p> </noscript>
+<br><br>
+<b>Have questions about book two? About contacting Pat? About anything? Why not check the <a href="../content/contact.asp#faq">FAQ</a>?</b>
+<br><br>
+
+<a href="../content/note.asp"><b>Read a special note from the publisher, Elizabeth Wollheim.</b></a></font></td>
+</tr>
+</tbody></table>
+&nbsp;
+<br><br>
+</div>
+
+<map name="Map" id="Map"><area shape="rect" coords="2,1,247,25" href="http://blog.patrickrothfuss.com">
+<area shape="rect" coords="3,27,246,49" href="../content/tour.asp">
+</map>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+<br><br>
+<table width="800" height="80" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td width="375" valign="top" align="left">
+<div style="margin-left: 10px;">
+<font class="copyright">
+<iframe class="iubenda-ibadge" scrolling="no" allowtransparency="true" style="width:99px; height:22px;" title="Privacy Policy" frameborder="0"></iframe> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script> | <iframe class="iubenda-ibadge" scrolling="no" allowtransparency="true" style="width:97px; height:22px;" title="Cookie Policy" frameborder="0"></iframe> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script><br><br>
+© 2020 Patrick Rothfuss. All Rights Reserved<br>
+
+</font>
+</div></td>
+<td valign="top" align="right">
+<div style="width: 184px; margin-bottom: 14px;">
+<div align="center">
+<font class="aotw">
+website designed and hosted by<br>
+<a href="http://www.AuthorsOnTheWeb.com" class="aotw" target="blank">AuthorsOnTheWeb.com</a>
+</font>
+</div>
+</div></td>
+</tr>
+</tbody></table>
+
+<script src="https://cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js" type="text/javascript"></script>
+<script>
+   
+  var config = {
+    apiKey: 'ec0a2133f49e625b53e511bd20388cf672c5354c',
+    product: 'PRO',
+    logConsent : false,    
+    
+    initialState: "NOTIFY",
+    position: "RIGHT",
+    theme: "DARK",
+    layout: "SLIDEOUT",
+    consentCookieExpiry: 90,
+        
+    text : {
+      title: 'This site uses cookies',
+      intro:  'Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.',
+      necessaryTitle : 'Necessary Cookies',
+      necessaryDescription : 'Necessary cookies enable core functionality. The website cannot function properly without these cookies, and can only be disabled by changing your browser preferences.',
+      thirdPartyTitle : 'Warning: Some cookies require your attention',
+      thirdPartyDescription : 'Consent for the following cookies could not be automatically revoked. Please follow the link(s) below to opt out manually.',
+      on : 'On',
+      off : 'Off',
+      accept : 'Accept',
+      settings : 'Cookie Preferences',
+      acceptRecommended : 'Accept Recommended Settings',
+      notifyTitle : 'Your choice regarding cookies on this site',
+      notifyDescription : 'We use cookies to optimise site functionality and give you the best possible experience.',
+    },
+    
+    
+    branding : {
+      fontColor: "#fff",
+      fontFamily: "Arial,sans-serif",
+      fontSizeTitle: "1.2em",
+      fontSizeHeaders: "1em",
+      fontSize: "0.8em",
+      backgroundColor: '#313147',
+      toggleText: '#fff',
+      toggleColor: '#2f2f5f',
+      toggleBackground: '#111125',
+      alertText: '#fff',
+      alertBackground: '#111125',
+              buttonIcon: null,
+        
+      buttonIconWidth: "64px",
+      buttonIconHeight: "64px",
+      removeIcon: false,
+      removeAbout: false    },
+
+    
+          
+      
+      
+    
+            
+          
+        
+      necessaryCookies: [ 'wordpress_*','wordpress_logged_in_*' ],
+                
+        optionalCookies: [
+                          {
+            name: 'analytics',
+            label: 'Analytical Cookies',
+            description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage. No personally identifiable data is collected.',
+            cookies: [ '_ga', '_gid', '_gat', '__utma' ],
+            onAccept : function(){
+               // Add Google Analytics
+                       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                        ga('create', 'UA-20230952-1', 'auto');
+                        ga('set', 'anonymizeIp', true);
+                        ga('send', 'pageview');
+                                 },
+            onRevoke : function(){
+              window['ga-disable-UA-20230952-1'] = true;            },
+             
+            initialConsentState : 'on',
+          },
+                                    {
+            name: 'thirdparty',
+            label: 'Third party cookies',
+            description: 'Third party cookies came from embed videos, tweets and posts.',
+            cookies: [ '_gat_2d44a78bd2ef2d44806e611ebd9ed76a', '_ga', '_gid', '_gat','eu_cn','guest_id','personalization_id','tfw_exp','act','c_user','datr','fr','pl','pnl_data2','presence','sb','wd','x-src','xs','APISID','CONSENT','dkv','HSID','LOGIN_INFO','PREF','SAPISID','SID','SSID','ST-j5ouos','ST-u3vh7c','VISITOR_INFO1_LIVE','YSC' ],
+            onAccept : function(){
+                          },
+            onRevoke : function(){
+                          },
+                                           
+                 
+              thirdPartyCookies: [{"name": "YouTube", "optOutLink": "https://support.google.com/youtube/answer/32050?hl=en&co=GENIE.Platform%3DDesktop"},{"name": "Twitter", "optOutLink": "https://help.twitter.com/en/rules-and-policies/twitter-cookies"},{"name": "Facebook", "optOutLink": "https://www.facebook.com/policies/cookies/"} ],
+             
+            initialConsentState : 'on',
+          },
+                    ],
+    
+    statement:  {
+      description: 'For more information visit our',
+      name: 'Cookie Policy',
+      url: 'https://www.patrickrothfuss.com/content/cookie-policy.asp',
+      updated: '30/05/2018'
+    },
+    
+      
+  };
+
+  CookieControl.load( config );
+
+</script>
+
+
+
+</body></html>

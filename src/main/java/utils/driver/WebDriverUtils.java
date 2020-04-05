@@ -15,6 +15,12 @@ public class WebDriverUtils {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
+       return driver;
+    }
+
+    public static WebDriver getPageTitle(){
+        String title = driver.getTitle();
         return driver;
     }
 }
+
