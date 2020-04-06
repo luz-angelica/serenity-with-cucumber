@@ -8,11 +8,11 @@ import user_interfaces.MyElement;
 
 import java.util.List;
 
-public class FirstSuggestionList implements Task {
+public class SelectSuggestionList implements Task {
     private String positionNumber;
     int lenght;
 
-    public FirstSuggestionList ( String number) {
+    public SelectSuggestionList ( String number) {
         this.positionNumber = number;
     }
 
@@ -42,8 +42,8 @@ public class FirstSuggestionList implements Task {
     }
 
 
-    public static FirstSuggestionList Open(String number){
+    public static SelectSuggestionList Open( String number){
 
-        return new FirstSuggestionList(number);
+        return new SelectSuggestionList(number);
     }
 }

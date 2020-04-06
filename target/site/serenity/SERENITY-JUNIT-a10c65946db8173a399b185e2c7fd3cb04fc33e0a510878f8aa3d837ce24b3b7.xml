@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Google Homepage Search" skipped="0" tests="4" time="46.38" timestamp="2020-04-05 12:08:13"><testcase name="User can search with “Google Search”"><failure message="First Results are show in the list - Expected show the results word question&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">First Results are show in the list - Expected show the results word question
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Google Homepage Search" skipped="0" tests="4" time="45.46" timestamp="2020-04-06 10:30:26"><testcase name="User can search with “Google Search”"><failure message="First Results are show in the list - Expected show the results word question&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">First Results are show in the list - Expected show the results word question
 Expected: is &lt;true&gt;
      but: was &lt;false&gt;</failure><system-err>First Results are show in the list - Expected show the results word question
 Expected: is &lt;true&gt;

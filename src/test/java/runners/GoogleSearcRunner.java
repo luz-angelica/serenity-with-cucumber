@@ -13,5 +13,5 @@ import org.junit.runner.RunWith;
         glue = {"step_definitions"},
         snippets = SnippetType.CAMELCASE
 )
-public class GoogleSearchWordRunner {
+public class GoogleSearcRunner {
 }

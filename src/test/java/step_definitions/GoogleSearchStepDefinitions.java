@@ -60,7 +60,7 @@ public class GoogleSearchStepDefinitions {
 
     @When("^I click on the (.*) result link$")
     public void i_click_on_the_first_result_link(String number) {
-         theActorInTheSpotlight().attemptsTo(OpenFirstResult.GivingClickHere(number));
+         theActorInTheSpotlight().attemptsTo(OpenResult.GivingClickHere(number));
     }
 
     @Then("^I am in the (.*) page$")
@@ -77,7 +77,7 @@ public class GoogleSearchStepDefinitions {
 
     @When("^I click on the (.*) suggestion in the list$")
     public void iClickOnTheFirstSuggestionInTheList(String number) {
-         theActorInTheSpotlight().attemptsTo(FirstSuggestionList.Open(number));
+         theActorInTheSpotlight().attemptsTo(SelectSuggestionList.Open(number));
     }
 
 

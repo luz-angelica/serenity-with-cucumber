@@ -8,12 +8,12 @@ import user_interfaces.MyElement;
 
 import java.util.List;
 
-public class OpenFirstResult implements Task {
+public class OpenResult implements Task {
 
     private String positionNumber;
     int lenght;
 
-    public OpenFirstResult ( String number) {
+    public OpenResult ( String number) {
         this.positionNumber = number;
     }
 
@@ -44,8 +44,8 @@ public class OpenFirstResult implements Task {
                 Click.on(results.get(lenght))
         );
     }
-    public static OpenFirstResult GivingClickHere(String number) {
+    public static OpenResult GivingClickHere( String number) {
 
-        return new OpenFirstResult(number);
+        return new OpenResult(number);
     }
 }

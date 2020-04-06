@@ -12,6 +12,8 @@ public class WebDriverUtils {
     public static WebDriver inThePage(String url) {
         System.setProperty("webdriver.gecko.driver", "src/test/resources/webdriver/webdriverFilezilla/geckodriver.exe");
         driver = new FirefoxDriver();
+        /*System.setProperty("webdriver.chrome.driver", "src/test/resources/webdriver/webdriverChrome/chromedriver.exe");
+        driver = new ChromeDriver(); */
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
